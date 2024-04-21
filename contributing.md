@@ -1,25 +1,17 @@
 # Contribution Guidelines
 
-Please note that this project is released with a
-[Contributor Code of Conduct](code-of-conduct.md). By participating in this
-project you agree to abide by its terms.
+Welcome to our project! We're excited to have you here and look forward to your contributions. Here are some guidelines that we ask you to follow to help us maintain a clean and effective codebase.
 
 ---
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Fork the Repository
+- Clone the Fork
+- Create a New Branch
+- Create a New Branch: Always create a branch specific to the feature or fix you are working on. Branch names should be descriptive.
+- Make Your Changes: Implement your changes, additions, or fixes in a clear and precise manner.
+- Commit Your Changes: When you commit your changes, use the following commit message format: add [tool name]. Replace [tool name] with the actual name of the tool you're adding. For example, if you're adding a tool named 'SuperTool', your commit message should be add SuperTool.
+- Push Your Changes: After committing your changes on your branch, push them to your fork.
+- Submit a Pull Request: From your fork, submit a pull request to our main branch. Ensure your pull request describes exactly what you changed and why.
 
-Thank you for your suggestions!
-
-
-## Updating your PR
-
-A lot of times, making a PR adhere to the standards above can be difficult.
-If the maintainers notice anything that we'd like changed, we'll ask you to
-edit your PR before we merge it. There's no need to open a new PR, just edit
-the existing one. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
-on the different ways you can update your PR so that we can merge it.
