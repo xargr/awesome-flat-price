@@ -8,7 +8,7 @@
 
 - [Email](#email)
 	- [Email hosting](#Email-hosting)
-   	- [Warm up service](#warm-up-service)
+   	- [Warm up service](#Warm-up-service)
 
 ## Email
 
