@@ -1,28 +1,19 @@
-# awesome-flar-price [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome flar price [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> flat price tooling
-
-
-## Contents
-
-- [Section](#section)
-- [Another Section](#another-section)
+> A curated list of awesome tools with Flat Price
 
 
-## Section
+## Table of Contents
 
-About this section. Optional. Keep this short and focus on the list.
+- [Email](#email)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Email
 
+Email services tools with Flat Price
 
-## Another Section
+- [migadu.com](https://www.migadu.com/)
+- [mxroute.com](https://mxroute.com/)
 
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
 
 
 ## Contribute
