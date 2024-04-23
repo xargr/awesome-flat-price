@@ -1,13 +1,14 @@
 
 # Awesome Unlimited [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome tools with Unlimited usage
+> A curated list of awesome tools with Unlimited usage, free from per-seat, per-usage, or per-user pricing tiers.
 
 
 ## Table of Contents
 
 - [Email](#email)
 	- [Email hosting](#Email-hosting)
+   	- [Warm up service](#warm-up-service)
 
 ## Email
 
@@ -17,6 +18,10 @@ Email services tools with Flat Price
 
 - [migadu.com](https://www.migadu.com/)
 - [mxroute.com](https://mxroute.com/)
+
+### Warm up service
+
+- [instantly.ai](https://instantly.ai/)
 
 
 
