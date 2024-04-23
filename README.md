@@ -9,8 +9,8 @@
 - [Email](#email)
 	- [Email hosting](#Email-hosting)
    	- [Warm up service](#Warm-up-service)
-- [WordPress](#WordPress)
-  	-[Themes](#Themes)
+- [WordPress](#WordPress) 
+  	- [Themes](#Themes)
 
 ## Email
 
