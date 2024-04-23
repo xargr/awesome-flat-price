@@ -12,7 +12,7 @@
 
 ## Email
 
-Email services tools with Flat Price
+Email services tools with unlimited pricing model
 
 ### Email hosting
 
