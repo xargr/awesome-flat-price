@@ -13,6 +13,7 @@
 - [WordPress](#WordPress) 
   	- [Themes](#Themes)
 - [VPN Services](#VPN-Services)
+- [Graphic Design](#Graphic-Design)
 
 ## Email
 
@@ -37,6 +38,10 @@
 ## VPN Services
 
 - [mullvad.net](https://mullvad.net/en)
+
+## Graphic-Design
+
+- [canva.com](https://www.canva.com/)
 
 
 
