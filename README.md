@@ -9,6 +9,7 @@
 - [Email](#email)
 	- [Email hosting](#Email-hosting)
    	- [Warm up service](#Warm-up-service)
+   	- [Newsletter](#Newsletter)
 - [WordPress](#WordPress) 
   	- [Themes](#Themes)
 
@@ -24,6 +25,10 @@ Email services tools with unlimited pricing model
 ### Warm up service
 
 - [instantly.ai](https://instantly.ai/)
+
+### Newsletter
+
+- [sendy.co](https://sendy.co/)
 
 ## WordPress
 
