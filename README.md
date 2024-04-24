@@ -12,10 +12,9 @@
    	- [Newsletter](#Newsletter)
 - [WordPress](#WordPress) 
   	- [Themes](#Themes)
+- [VPN Services](#VPN-Services)
 
 ## Email
-
-Email services tools with unlimited pricing model
 
 ### Email hosting
 
@@ -32,10 +31,12 @@ Email services tools with unlimited pricing model
 
 ## WordPress
 
-Wordpress tools with unlimited pricing model
-
 ### Themes
 - [cssigniter.com](https://www.cssigniter.com/)
+
+## VPN Services
+
+- [mullvad.net](https://mullvad.net/en)
 
 
 
